@@ -12,11 +12,15 @@ I’m a results-driven developer focused on building scalable web applications, 
 ---
 ### 🌐 Connect With Me
 
+### 🌐 Connect With Me
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abujuniorvandi.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter / X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/your-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbuJrVandi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-junior-vandi-67b12425a/?_l=en_US)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Abu-Markovic-Vandi-Jr/100007970957639/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abuzo_marvani)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abujuniorv@gmail.com)
+[![Call](https://img.shields.io/badge/Call-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white)](tel:+23273914398)
 
 ### 🧰 Languages and Tools
 
@@ -31,6 +35,21 @@ I’m a results-driven developer focused on building scalable web applications, 
 ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbuJrVandi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuJrVandi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbuJrVandi&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuJrVandi&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 <details>

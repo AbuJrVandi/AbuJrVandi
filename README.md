@@ -43,15 +43,6 @@ I’m a results-driven developer focused on building scalable web applications, 
 
 ![Commit Activity](https://img.shields.io/badge/Commits-Active%20Contributor-success?style=for-the-badge&logo=git)
 ---
-### 📌 Profile Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuJrVandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuJrVandi&theme=tokyonight&hide_border=true&background=0d1117&ring=f78166&fire=ff7b72&currStreakLabel=58a6ff" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuJrVandi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</p>
 
 ### Contribution & Activity
 

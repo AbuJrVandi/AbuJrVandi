@@ -4,14 +4,14 @@
 
 I’m a results-driven developer focused on building scalable web applications, data-driven systems, and AI-powered solutions. My work spans full-stack development, data analysis, and intelligent systems designed to solve real-world problems.
 
-### 🌍 Contact & Portfolio
+### Contact & Portfolio
 - 🌐 Portfolio: https://abujuniorvandi.vercel.app/  
 - 📧 Email: abujuniorv@gmail.com  
 - 📍 Country: Sierra Leone  
 - 📞 Phone: +232 73 914398  
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abujuniorvandi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbuJrVandi)
@@ -21,7 +21,7 @@ I’m a results-driven developer focused on building scalable web applications, 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abujuniorv@gmail.com)
 [![Call](https://img.shields.io/badge/Call-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white)](tel:+23273914398)
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ I’m a results-driven developer focused on building scalable web applications, 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 📌 Profile Highlights
+### Profile Highlights
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbuJrVandi&style=for-the-badge&color=blue)
 
@@ -43,8 +43,17 @@ I’m a results-driven developer focused on building scalable web applications, 
 
 ![Commit Activity](https://img.shields.io/badge/Commits-Active%20Contributor-success?style=for-the-badge&logo=git)
 ---
+### 📌 Profile Highlights
 
-### 🔥 Contribution & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbuJrVandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuJrVandi&theme=tokyonight&hide_border=true&background=0d1117&ring=f78166&fire=ff7b72&currStreakLabel=58a6ff" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuJrVandi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
+
+### Contribution & Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AbuJrVandi&theme=radical&hide_border=true"/>

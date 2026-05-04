@@ -10,7 +10,6 @@ I’m a results-driven developer focused on building scalable web applications, 
 - 📍 Country: Sierra Leone  
 - 📞 Phone: +232 73 914398  
 ---
-### 🌐 Connect With Me
 
 ### 🌐 Connect With Me
 
@@ -36,19 +35,23 @@ I’m a results-driven developer focused on building scalable web applications, 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 📊 GitHub Analytics
+### 📌 Profile Highlights
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbuJrVandi&style=for-the-badge&color=blue)
+
+![Repos](https://img.shields.io/badge/Public%20Repos-GitHub%20Visible-blue?style=for-the-badge&logo=github)
+
+![Commit Activity](https://img.shields.io/badge/Commits-Active%20Contributor-success?style=for-the-badge&logo=git)
+---
+
+### 🔥 Contribution & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuJrVandi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuJrVandi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=AbuJrVandi&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbuJrVandi&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuJrVandi&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuJrVandi&theme=redical&hide_border=true"/>
 </p>
 ---
 
